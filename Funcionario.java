@@ -1,5 +1,3 @@
 public class Funcionario {
-
-    int idFuncionario;
-
+   long id;
 }
